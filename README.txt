@@ -1,1 +1,3 @@
 基于ESP32搭建deepseek智能语音对话设备
+ssh
+
